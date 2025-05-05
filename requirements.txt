@@ -3,5 +3,4 @@ asyncio
 langchain-mcp-adapters
 langgraph
 fastmcp
-google-generativeai
-langchain-google-genai
+langchain-groq
